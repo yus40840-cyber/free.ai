@@ -1,0 +1,6 @@
+{
+  "name": "ScholarFlow - Student Academic Writing Workspace",
+  "description": "Natural, personalized, source-grounded academic writing workspace for students. Create research papers, SOPs, motivation letters, essays, and citations in your own authentic voice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
